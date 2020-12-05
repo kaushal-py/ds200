@@ -1,0 +1,257 @@
+S.No,District,Name of the crop,Type of Season,Area as per Season and Crop Report (in Hectare),Estimated Average Yield per (Kg/Hectare),Estimated Production (Tonnes)
+1,Kancheepuram,Chillies,Rabi,224,410.445,92
+2,Tiruvallur,Chillies,Rabi,491,1820.221,894
+3,Cuddalore,Chillies,Rabi,436,410.445,179
+4,Villupuram,Chillies,Rabi,376,410.445,154
+5,Vellore,Chillies,Rabi,938,2039.727,1913
+6,Tiruvannamalai,Chillies,Rabi,1057,1819,1923
+7,Salem,Chillies,Rabi,484,405.618,196
+8,Namakkal,Chillies,Rabi,217,410.445,89
+9,Dharmapuri,Chillies,Rabi,366,435.493,159
+10,Coimbatore,Chillies,Rabi,391,410.445,160
+11,Erode,Chillies,Rabi,96,410.445,39
+12,Tiruchirappalli,Chillies,Rabi,584,1107.717,647
+13,Karur,Chillies,Rabi,365,1186.489,433
+14,Perambalur,Chillies,Rabi,134,1807.757,242
+15,Thanjavur,Chillies,Rabi,38,410.445,16
+16,Tiruvarur,Chillies,Rabi,16,410.445,7
+17,Nagapattinam,Chillies,Rabi,12,410.445,5
+18,Pudukkottai,Chillies,Rabi,221,410.445,91
+19,Madurai,Chillies,Rabi,348,816.342,284
+20,Theni,Chillies,Rabi,417,410.445,171
+21,Dindigul,Chillies,Rabi,1226,2560.654,3139
+22,Ramanathapuram,Chillies,Rabi,16622,212.914,3539
+23,Virudhunagar,Chillies,Rabi,1217,786.438,957
+24,Sivaganga,Chillies,Rabi,3959,65.937,261
+25,Tirunelveli,Chillies,Rabi,182,132.194,24
+26,Thoothukudi,Chillies,Rabi,12498,136.231,1703
+27,Kanniyakumari,Chillies,Rabi,1,410.445,0
+28,The Nilgiris,Chillies,Rabi,3,410.445,1
+29,Krishnagiri,Chillies,Rabi,674,840,566
+30,Ariyalur,Chillies,Rabi,183,446.945,82
+31,Tiruppur,Chillies,Rabi,344,410.445,141
+Total,State Total,Chillies,Rabi,44120,410.445,18107
+1,Kancheepuram,Onion,Kharif and Rabi Combined,2,9296.015,19
+2,Tiruvallur,Onion,Kharif and Rabi Combined,0,0,0
+3,Cuddalore,Onion,Kharif and Rabi Combined,35,9448.374,331
+4,Villupuram,Onion,Kharif and Rabi Combined,194,9594.148,1861
+5,Vellore,Onion,Kharif and Rabi Combined,17,9537.307,162
+6,Tiruvannamalai,Onion,Kharif and Rabi Combined,21,9491.347,199
+7,Salem,Onion,Kharif and Rabi Combined,435,10570.548,4598
+8,Namakkal,Onion,Kharif and Rabi Combined,2632,13692.079,36038
+9,Dharmapuri,Onion,Kharif and Rabi Combined,209,11355.409,2373
+10,Coimbatore,Onion,Kharif and Rabi Combined,1163,12637.042,14697
+11,Erode,Onion,Kharif and Rabi Combined,847,11795.673,9991
+12,Tiruchirappalli,Onion,Kharif and Rabi Combined,2059,9462.615,19484
+13,Karur,Onion,Kharif and Rabi Combined,241,12399.113,2988
+14,Perambalur,Onion,Kharif and Rabi Combined,6736,9213.793,62064
+15,Thanjavur,Onion,Kharif and Rabi Combined,56,9493.789,532
+16,Tiruvarur,Onion,Kharif and Rabi Combined,0,0,0
+17,Nagapattinam,Onion,Kharif and Rabi Combined,5,9296.015,46
+18,Pudukkottai,Onion,Kharif and Rabi Combined,11,9378.055,94
+19,Madurai,Onion,Kharif and Rabi Combined,251,8664.048,2175
+20,Theni,Onion,Kharif and Rabi Combined,920,12032.568,11082
+21,Dindigul,Onion,Kharif and Rabi Combined,1292,9909.21,12803
+22,Ramanathapuram,Onion,Kharif and Rabi Combined,100,9296.015,930
+23,Virudhunagar,Onion,Kharif and Rabi Combined,879,2162.978,1901
+24,Sivaganga,Onion,Kharif and Rabi Combined,45,9350.708,421
+25,Tirunelveli,Onion,Kharif and Rabi Combined,201,9797.227,1969
+26,Thoothukudi,Onion,Kharif and Rabi Combined,2688,2833.723,7620
+27,Kanniyakumari,Onion,Kharif and Rabi Combined,0,0,0
+28,The Nilgiris,Onion,Kharif and Rabi Combined,0,0,0
+29,Krishnagiri,Onion,Kharif and Rabi Combined,6,9364.381,56
+30,Ariyalur,Onion,Kharif and Rabi Combined,32,9526.751,305
+31,Tiruppur,Onion,Kharif and Rabi Combined,1734,11478.612,19904
+Total,State Total,Onion,Kharif and Rabi Combined,22811,9409.156,214643
+1,Kancheepuram,Turmeric,Kharif,0,0,0
+2,Tiruvallur,Turmeric,Kharif,7,4045.031,30
+3,Cuddalore,Turmeric,Kharif,241,2255.667,540
+4,Villupuram,Turmeric,Kharif,1870,4269.457,7980
+5,Vellore,Turmeric,Kharif,375,5139,1930
+6,Tiruvannamalai,Turmeric,Kharif,346,6570.9,2270
+7,Salem,Turmeric,Kharif,2657,2816.075,7480
+8,Namakkal,Turmeric,Kharif,1820,5984.993,10890
+9,Dharmapuri,Turmeric,Kharif,5298,2810.61,14890
+10,Coimbatore,Turmeric,Kharif,525,4721.183,2480
+11,Erode,Turmeric,Kharif,3072,4892.471,15030
+12,Tiruchirappalli,Turmeric,Kharif,311,9755.042,3030
+13,Karur,Turmeric,Kharif,140,2623.61,370
+14,Perambalur,Turmeric,Kharif,564,6071.097,3420
+15,Thanjavur,Turmeric,Kharif,17,4045.031,70
+16,Tiruvarur,Turmeric,Kharif,2,4045.031,10
+17,Nagapattinam,Turmeric,Kharif,0,0,0
+18,Pudukkottai,Turmeric,Kharif,24,4045.031,100
+19,Madurai,Turmeric,Kharif,8,4045.031,30
+20,Theni,Turmeric,Kharif,1,4045.031,0
+21,Dindigul,Turmeric,Kharif,5,4045.031,20
+22,Ramanathapuram,Turmeric,Kharif,0,0,0
+23,Virudhunagar,Turmeric,Kharif,1,4045.031,0
+24,Sivaganga,Turmeric,Kharif,8,4045.031,30
+25,Tirunelveli,Turmeric,Kharif,7,4045.031,30
+26,Thoothukudi,Turmeric,Kharif,5,4045.031,20
+27,Kanniyakumari,Turmeric,Kharif,0,0,0
+28,The Nilgiris,Turmeric,Kharif,17,4045.031,70
+29,Krishnagiri,Turmeric,Kharif,492,2362.627,1160
+30,Ariyalur,Turmeric,Kharif,16,4045.031,70
+31,Tiruppur,Turmeric,Kharif,251,4649.991,1170
+Total,State Total,Turmeric,Kharif,18080,4045.031,73120
+1,Kancheepuram,Tapioca,Kharif,1,34218.279,34
+2,Tiruvallur,Tapioca,Kharif,6,34218.279,205
+3,Cuddalore,Tapioca,Kharif,6276,30789.91,193237
+4,Villupuram,Tapioca,Kharif,13315,35407.075,471445
+5,Vellore,Tapioca,Kharif,117,34218.279,4004
+6,Tiruvannamalai,Tapioca,Kharif,1653,37105.54,61335
+7,Salem,Tapioca,Kharif,11468,34275.391,393104
+8,Namakkal,Tapioca,Kharif,16024,30093.088,482182
+9,Dharmapuri,Tapioca,Kharif,12421,30384.544,377406
+10,Coimbatore,Tapioca,Kharif,501,42479.167,21325
+11,Erode,Tapioca,Kharif,5513,47734.518,263113
+12,Tiruchirappalli,Tapioca,Kharif,5307,40925,217230
+13,Karur,Tapioca,Kharif,1193,26958.333,32161
+14,Perambalur,Tapioca,Kharif,1886,48041.667,90607
+15,Thanjavur,Tapioca,Kharif,449,34218.279,15398
+16,Tiruvarur,Tapioca,Kharif,80,34218.279,2737
+17,Nagapattinam,Tapioca,Kharif,62,34218.279,2156
+18,Pudukkottai,Tapioca,Kharif,273,34218.279,9342
+19,Madurai,Tapioca,Kharif,25,34218.279,855
+20,Theni,Tapioca,Kharif,203,37013.587,7514
+21,Dindigul,Tapioca,Kharif,91,19536.353,3114
+22,Ramanathapuram,Tapioca,Kharif,1,34218.279,34
+23,Virudhunagar,Tapioca,Kharif,15,34218.279,513
+24,Sivaganga,Tapioca,Kharif,27,34218.279,924
+25,Tirunelveli,Tapioca,Kharif,166,34218.279,5680
+26,Thoothukudi,Tapioca,Kharif,17,34218.279,582
+27,Kanniyakumari,Tapioca,Kharif,1339,21750,29123
+28,The Nilgiris,Tapioca,Kharif,37,34218.279,1266
+29,Krishnagiri,Tapioca,Kharif,189,28257.813,5341
+30,Ariyalur,Tapioca,Kharif,222,31375,6965
+31,Tiruppur,Tapioca,Kharif,467,34656.25,16184
+Total,State Total,Tapioca,Kharif,79344,34218.279,2715116
+1,Kancheepuram,Potato,Kharif and Rabi Combined,0,0,0
+2,Tiruvallur,Potato,Kharif and Rabi Combined,0,0,0
+3,Cuddalore,Potato,Kharif and Rabi Combined,0,0,0
+4,Villupuram,Potato,Kharif and Rabi Combined,0,0,0
+5,Vellore,Potato,Kharif and Rabi Combined,0,0,0
+6,Tiruvannamalai,Potato,Kharif and Rabi Combined,0,0,0
+7,Salem,Potato,Kharif and Rabi Combined,0,0,0
+8,Namakkal,Potato,Kharif and Rabi Combined,0,0,0
+9,Dharmapuri,Potato,Kharif and Rabi Combined,0,0,0
+10,Coimbatore,Potato,Kharif and Rabi Combined,0,0,0
+11,Erode,Potato,Kharif and Rabi Combined,414,9628.312,3986
+12,Tiruchirappalli,Potato,Kharif and Rabi Combined,0,0,0
+13,Karur,Potato,Kharif and Rabi Combined,0,0,0
+14,Perambalur,Potato,Kharif and Rabi Combined,0,0,0
+15,Thanjavur,Potato,Kharif and Rabi Combined,0,0,0
+16,Tiruvarur,Potato,Kharif and Rabi Combined,0,0,0
+17,Nagapattinam,Potato,Kharif and Rabi Combined,0,0,0
+18,Pudukkottai,Potato,Kharif and Rabi Combined,0,0,0
+19,Madurai,Potato,Kharif and Rabi Combined,0,0,0
+20,Theni,Potato,Kharif and Rabi Combined,4,17310.373,41337
+21,Dindigul,Potato,Kharif and Rabi Combined,2140,19316.463,0
+22,Ramanathapuram,Potato,Kharif and Rabi Combined,0,0,0
+23,Virudhunagar,Potato,Kharif and Rabi Combined,0,0,0
+24,Sivaganga,Potato,Kharif and Rabi Combined,0,0,0
+25,Tirunelveli,Potato,Kharif and Rabi Combined,0,0,0
+26,Thoothukudi,Potato,Kharif and Rabi Combined,0,0,0
+27,Kanniyakumari,Potato,Kharif and Rabi Combined,0,0,0
+28,The Nilgiris,Potato,Kharif and Rabi Combined,942,22303.193,21012
+29,Krishnagiri,Potato,Kharif and Rabi Combined,80,25870.745,2070
+30,Ariyalur,Potato,Kharif and Rabi Combined,0,0,0
+31,Tiruppur,Potato,Kharif and Rabi Combined,2,22630.117,45
+Total,State Total,Potato,Kharif and Rabi Combined,3582,19128.175,68450
+1,Kancheepuram,Ginger,Kharif,0,0,0
+2,Tiruvallur,Ginger,Kharif,0,0,0
+3,Cuddalore,Ginger,Kharif,0,0,0
+4,Villupuram,Ginger,Kharif,0,0,0
+5,Vellore,Ginger,Kharif,1,19536.353,20
+6,Tiruvannamalai,Ginger,Kharif,0,0,0
+7,Salem,Ginger,Kharif,0,0,0
+8,Namakkal,Ginger,Kharif,0,0,0
+9,Dharmapuri,Ginger,Kharif,0,0,0
+10,Coimbatore,Ginger,Kharif,12,19536.353,234
+11,Erode,Ginger,Kharif,8,19536.353,156
+12,Tiruchirappalli,Ginger,Kharif,0,0,0
+13,Karur,Ginger,Kharif,0,0,0
+14,Perambalur,Ginger,Kharif,0,0,0
+15,Thanjavur,Ginger,Kharif,5,19536.353,98
+16,Tiruvarur,Ginger,Kharif,0,0,0
+17,Nagapattinam,Ginger,Kharif,0,0,0
+18,Pudukkottai,Ginger,Kharif,0,0,0
+19,Madurai,Ginger,Kharif,0,0,0
+20,Theni,Ginger,Kharif,1,19536.353,20
+21,Dindigul,Ginger,Kharif,1,19536.353,20
+22,Ramanathapuram,Ginger,Kharif,0,0,0
+23,Virudhunagar,Ginger,Kharif,0,0,0
+24,Sivaganga,Ginger,Kharif,0,0,0
+25,Tirunelveli,Ginger,Kharif,0,0,0
+26,Thoothukudi,Ginger,Kharif,0,0,0
+27,Kanniyakumari,Ginger,Kharif,4,19536.353,78
+28,The Nilgiris,Ginger,Kharif,348,19536.353,6799
+29,Krishnagiri,Ginger,Kharif,0,0,0
+30,Ariyalur,Ginger,Kharif,0,0,0
+31,Tiruppur,Ginger,Kharif,0,0,0
+Total,State Total,Ginger,Kharif,380,19536.353,7425
+1,Kancheepuram,Coriander,Rabi,0,0,0
+2,Tiruvallur,Coriander,Rabi,0,0,0
+3,Cuddalore,Coriander,Rabi,0,0,0
+4,Villupuram,Coriander,Rabi,0,0,0
+5,Vellore,Coriander,Rabi,75,510.323,38
+6,Tiruvannamalai,Coriander,Rabi,1,510.323,1
+7,Salem,Coriander,Rabi,9,510.323,5
+8,Namakkal,Coriander,Rabi,116,510.323,59
+9,Dharmapuri,Coriander,Rabi,47,510.323,24
+10,Coimbatore,Coriander,Rabi,339,351.929,119
+11,Erode,Coriander,Rabi,3,510.323,2
+12,Tiruchirappalli,Coriander,Rabi,117,411.369,48
+13,Karur,Coriander,Rabi,4,510.323,2
+14,Perambalur,Coriander,Rabi,27,0,14
+15,Thanjavur,Coriander,Rabi,0,0,0
+16,Tiruvarur,Coriander,Rabi,0,0,0
+17,Nagapattinam,Coriander,Rabi,0,0,0
+18,Pudukkottai,Coriander,Rabi,0,0,0
+19,Madurai,Coriander,Rabi,14,510.323,7
+20,Theni,Coriander,Rabi,240,510.323,122
+21,Dindigul,Coriander,Rabi,8,510.323,4
+22,Ramanathapuram,Coriander,Rabi,1878,694.62,1304
+23,Virudhunagar,Coriander,Rabi,1913,289.871,555
+24,Sivaganga,Coriander,Rabi,19,510.323,10
+25,Tirunelveli,Coriander,Rabi,2,510.323,1
+26,Thoothukudi,Coriander,Rabi,2573,464.784,1196
+27,Kanniyakumari,Coriander,Rabi,0,0,0
+28,The Nilgiris,Coriander,Rabi,1,510.323,1
+29,Krishnagiri,Coriander,Rabi,16,510.323,8
+30,Ariyalur,Coriander,Rabi,12,510.323,6
+31,Tiruppur,Coriander,Rabi,642,912.278,586
+Total,State Total,Coriander,Rabi,8056,510.323,4112
+1,Kancheepuram,Cashewnut,NA,231,224.484,52
+2,Tiruvallur,Cashewnut,NA,157,224.484,35
+3,Cuddalore,Cashewnut,NA,29257,110.286,3227
+4,Villupuram,Cashewnut,NA,4201,814.855,3423
+5,Vellore,Cashewnut,NA,15,224.484,3
+6,Tiruvannamalai,Cashewnut,NA,8,224.484,2
+7,Salem,Cashewnut,NA,59,224.484,13
+8,Namakkal,Cashewnut,NA,1,224.484,0
+9,Dharmapuri,Cashewnut,NA,1,224.484,0
+10,Coimbatore,Cashewnut,NA,39,224.484,9
+11,Erode,Cashewnut,NA,10,224.484,2
+12,Tiruchirappalli,Cashewnut,NA,636,230.227,146
+13,Karur,Cashewnut,NA,13,224.484,3
+14,Perambalur,Cashewnut,NA,3,224.484,1
+15,Thanjavur,Cashewnut,NA,1513,226.338,342
+16,Tiruvarur,Cashewnut,NA,4,224.484,1
+17,Nagapattinam,Cashewnut,NA,1720,124.903,215
+18,Pudukkottai,Cashewnut,NA,5623,144.485,812
+19,Madurai,Cashewnut,NA,161,224.484,36
+20,Theni,Cashewnut,NA,3418,151.701,519
+21,Dindigul,Cashewnut,NA,381,224.484,86
+22,Ramanathapuram,Cashewnut,NA,140,224.484,31
+23,Virudhunagar,Cashewnut,NA,49,224.484,11
+24,Sivaganga,Cashewnut,NA,3044,1.575,5
+25,Tirunelveli,Cashewnut,NA,3087,133.356,412
+26,Thoothukudi,Cashewnut,NA,548,325.911,179
+27,Kanniyakumari,Cashewnut,NA,1004,253.892,255
+28,The Nilgiris,Cashewnut,NA,0,0,0
+29,Krishnagiri,Cashewnut,NA,5,224.484,1
+30,Ariyalur,Cashewnut,NA,30393,309.995,9422
+31,Tiruppur,Cashewnut,NA,162,224.484,36
+Total,State Total,Cashewnut,NA,85883,224.484,19279
